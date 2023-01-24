@@ -1,0 +1,34 @@
+body {
+    font-family: helvetica, arial;
+}
+
+header {
+    font-size: 24pt;
+    font-variant: small-caps;
+}
+
+input {
+    font-size: 16pt;
+}
+
+#item {
+    width: 800px;
+}
+
+li {
+    font-size: 16pt;
+    list-style: none;
+}
+
+.content {
+    width: 900px;
+    margin: 0 auto;
+}
+
+.incomplete {
+    font-weight: bold;
+}
+
+.complete {
+    text-decoration: line-through;
+}
